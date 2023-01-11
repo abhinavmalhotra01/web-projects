@@ -1,0 +1,62 @@
+/* body {
+    background-size: 40px 40px;
+    background-image:
+        linear-gradient(to right, red 1px, transparent 1px),
+        linear-gradient(to bottom, red 1px, transparent 1px);
+} */
+
+.Board{
+    position: relative;
+    margin: 0 auto;
+    background-color: black;
+    background-size: 20px 20px;
+    background-image:
+            linear-gradient(to right, white 1px, transparent 1px),
+            linear-gradient(to bottom, white 1px, transparent 1px);
+}
+/* *{
+    background-color: #000;
+} */
+
+
+.Cell {
+    background: #ccc;
+    position: absolute;
+}
+
+
+.controls{
+    width: 100px;
+        height: 40px;
+        /* background-color: red; */
+    
+        /* position: absolute; */
+        display: flex;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin-top:30px;
+        margin-left: auto;
+        margin-right: auto;
+}
+.buttons{
+   
+            width: 100px;
+            height: 40px;
+            display: flex;
+                top: 0;
+                bottom: 0;
+                left: 0;
+                right: 0;
+            
+                margin-top: 20x;
+                    margin-left: auto;
+                    margin-right: auto;
+}
+.button{
+    background-color: darkblue;
+    color:antiquewhite;
+    padding: 20px;
+    margin: 5px;
+}
