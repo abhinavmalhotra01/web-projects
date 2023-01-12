@@ -42,9 +42,10 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ## Learn More
 
 // the rules of game ->
+
 //                      1. before clicking run -> you can toggle over the board (white means cell is living) 
 
-//                      2. after selecting your initial state(any number of random cells over board)  // can also choose random initial state
+//                      2. after selecting your initial state(any number of random cells over board)           // can also choose random initial state
 //                     
                         3. after pressing "Run" button -> the game will play according to the rules:
 //                                                                        
