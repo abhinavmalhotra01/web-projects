@@ -57,9 +57,9 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
                                                                         
                                           (iv.)  Any dead cell with exactly three live neighbors becomes a live cell, as if by reproduction.
                       
-                        4. the transitions will happen according to the time , which can be changed 
+                      4. the transitions will happen according to the time , which can be changed 
                      
-                        5. once clicking stop -> the baord will stop at the current configuration ; on clicking clear -> the board go emtpy(all black cells)
+                      5. once clicking stop -> the baord will stop at the current configuration ; on clicking clear -> the board go emtpy(all black cells)
 
  
 
