@@ -47,7 +47,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
                      2. after selecting your initial state(any number of random cells over board)           // can also choose random initial state
                     
-                        3. after pressing "Run" button -> the game will play according to the rules:
+                     3. after pressing "Run" button -> the game will play according to the rules:
                                                                         
                                           (i.)  Any live cell with fewer than two live neighbors dies, as if caused by under population.
                                                                         
